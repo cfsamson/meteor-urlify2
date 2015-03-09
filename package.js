@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "Generate slugs with smart urlify supporting unicode",
+  summary: "Generate slugs with smart urlify supporting unicode - cfs version",
   version: '0.2.3',
   name: 'peerlibrary:urlify2',
   git: 'https://github.com/peerlibrary/meteor-urlify2.git'
